@@ -2,11 +2,13 @@
 
 /**
  *
- *  * Description: main - Prints out a string to stdout.
+ *  * main - This is the entry point of the project
  *
- *   * Return: 0 if success.
+ *   *
  *
- *    */
+ *    * Return: always 0
+ *
+ *     */
 
 int main(void)
 
